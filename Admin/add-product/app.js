@@ -33,8 +33,10 @@ function addProduct() {
       <button class="close" onclick="removeProduct(event)">
       <i class="fa-solid fa-xmark"></i>
       </button>
-      <i class="fa-solid fa-check"></i>
+
       <button class="accept-input">
+      <i class="fa-solid fa-check"></i>
+      </button>
     </div>
   </form>
   `
